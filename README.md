@@ -34,6 +34,7 @@
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img alt="Symfony" src="https://img.shields.io/badge/Symfony-%23000000.svg?style=flat-square&logo=symfony&logoColor=white" />
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
+  <img alt="StoryBook" src="https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" />
 </p>
 
 <h2>My hobbies</h2>
