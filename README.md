@@ -7,7 +7,7 @@
 <a href="https://www.valentin-harrang.fr/" target="_blank"><img src="https://img.shields.io/badge/Website-1a73e8?style=flat-square&logo=About.me&logoColor=white" alt="Website Badge" /></a>
 </div>
 
-<p>Welcome to my profile! </br> I'm Valentin, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Normandy, France</b>, I ❤️ code. </p>
+<p>Welcome to my profile! </br> I'm Valentin, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Normandy, France</b>, I ❤️ code since 2016. </p>
 <h2>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
