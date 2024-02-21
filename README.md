@@ -8,6 +8,7 @@
 </div>
 
 <p>Welcome to my profile! </br> I'm Valentin, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Normandy, France</b>, I ❤️ code since 2016. </p>
+
 <h2>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -43,3 +44,5 @@
 <p><strong>Hiking 🥾</strong> is an escape that allows me to reconnect with nature and rejuvenate.<br />I enjoy losing myself in the beauty of mountainous landscapes 🏞️, breathing the fresh air of forest trails 🌲, and embracing the challenge of new rugged paths ⛰️.</p>
 <p><strong>Spending time with my Shiba Inu 🦊</strong> is a source of daily joy.<br />I love taking long walks in nature 🌳 with him, enjoying playtime in the park 🌼, and simply cherishing moments of relaxation and bonding 🐶.</p>
 <p><strong>Exploring new technologies 💻</strong> and building cool stuff ignites my creativity and curiosity.<br />I'm fascinated by the latest tech trends 📡, love tinkering with gadgets and software 🛠️, and thrive on turning innovative ideas into reality 🚀.</p>
+
+<a href="https://app.daily.dev/valentinharrang"><img src="https://api.daily.dev/devcards/v2/oNLd7z0IcW3HmH4Xeb2RM.png?type=default&r=ayx" width="356" alt="Valentin Harrang's Dev Card"/></a>
